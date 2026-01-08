@@ -1,4 +1,4 @@
-## Hi there 👋
+I build interactive web apps using JavaScript ,React ,Tailwind CSS and Redux. With a focus on UI design. Enthusiastic about Three.js, driven by a keen eye for design. Constantly learning and experimenting to turn ideas into polished
 
 <!--
 **rahulkumar971/rahulkumar971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
